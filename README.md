@@ -59,12 +59,7 @@ same clock pulse sequence as A when S will be “0” and it
 will have the same clock pulse sequence as B when S will
 be “1”.
 ## Truth Table
-| Input A  | Input B | S  | Y |
-| ------------- | ------------- | ------------- | ------------- |
-| 0  | 0 | X  | 0 |
-| 0  | 1 | X| 1|
-| 1  | X |0|0|
-| 1 | X |1|1|
+![image](https://user-images.githubusercontent.com/97329187/193816057-27801199-c3ff-4e87-8a2d-7ba9566ed552.png)
 
 ## Software Used
 ### eSim
@@ -150,7 +145,7 @@ endmodule
 ## Steps to run this project
 1. Open a new terminal
 2. Clone this project using the following command:</br>
-```git clone https://github.com/Design-and-Implementation-of-Mixed-Signal-Circuit-2-1-MUX/abdulmannan.git ```</br>
+```git clone https://github.com/abdulmannan05/abdulmannan.git ```</br>
 3. Change directory:</br>
 ```cd eSim_project_files/abdulmannan```</br>
 4. Run ngspice:</br>
